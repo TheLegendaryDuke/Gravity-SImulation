@@ -1,0 +1,13 @@
+
+BLOCKED FILE ALERT
+
+A file has been blocked due to the 'Windows Executable files' rule.
+Context: 'WindowsFormsApplication3.exe'
+Disallowed due to format
+Ticket Number: '315c-5674-8265-0001'
+
+
+For further information, contact your system administrator. 
+Copyright 1999-2014 McAfee, Inc.
+All Rights Reserved.
+http://www.mcafee.com
